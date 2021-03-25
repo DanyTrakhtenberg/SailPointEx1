@@ -1,0 +1,12 @@
+C:\Users\dtrakht\source\repos\SailPointEx1\BookParserInterface\bin\Debug\netstandard2.0\BookParserInterface.deps.json
+C:\Users\dtrakht\source\repos\SailPointEx1\BookParserInterface\bin\Debug\netstandard2.0\BookParserInterface.dll
+C:\Users\dtrakht\source\repos\SailPointEx1\BookParserInterface\bin\Debug\netstandard2.0\BookParserInterface.pdb
+C:\Users\dtrakht\source\repos\SailPointEx1\BookParserInterface\bin\Debug\netstandard2.0\Models.dll
+C:\Users\dtrakht\source\repos\SailPointEx1\BookParserInterface\bin\Debug\netstandard2.0\Models.pdb
+C:\Users\dtrakht\source\repos\SailPointEx1\BookParserInterface\obj\Debug\netstandard2.0\BookParserInterface.csprojAssemblyReference.cache
+C:\Users\dtrakht\source\repos\SailPointEx1\BookParserInterface\obj\Debug\netstandard2.0\BookParserInterface.AssemblyInfoInputs.cache
+C:\Users\dtrakht\source\repos\SailPointEx1\BookParserInterface\obj\Debug\netstandard2.0\BookParserInterface.AssemblyInfo.cs
+C:\Users\dtrakht\source\repos\SailPointEx1\BookParserInterface\obj\Debug\netstandard2.0\BookParserInterface.csproj.CoreCompileInputs.cache
+C:\Users\dtrakht\source\repos\SailPointEx1\BookParserInterface\obj\Debug\netstandard2.0\BookParserInterface.csproj.CopyComplete
+C:\Users\dtrakht\source\repos\SailPointEx1\BookParserInterface\obj\Debug\netstandard2.0\BookParserInterface.dll
+C:\Users\dtrakht\source\repos\SailPointEx1\BookParserInterface\obj\Debug\netstandard2.0\BookParserInterface.pdb

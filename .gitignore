@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BookParserInterface/bin/Debug/netstandard2.0
+/FileSaver/bin/Debug/netstandard2.0
+/FileSavers/obj/Debug/netcoreapp3.1
+/FileSavers/obj
+/FileRader/bin/Debug/netstandard2.0
+/FileRader/obj/Debug/netstandard2.0
+/FileSaver/obj/Debug/netstandard2.0
+/BookParser/obj

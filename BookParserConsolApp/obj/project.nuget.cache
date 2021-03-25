@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UqTGI0Pgv4JSe4d+HnGHDPsY6Ls8NJSbKiTSZbuK4f4ARmFX+vKJF5z2rDV/16Xdy/1PGHM1kh22/o0uYXBiRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danys_PC\\Desktop\\Excercises - Copy\\BookParserConsolApp\\BookParserConsolApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danys_PC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

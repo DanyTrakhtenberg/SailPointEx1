@@ -1,0 +1,9 @@
+C:\Users\dtrakht\source\repos\SailPointEx1\Models\bin\Debug\netstandard2.0\Models.deps.json
+C:\Users\dtrakht\source\repos\SailPointEx1\Models\bin\Debug\netstandard2.0\Models.dll
+C:\Users\dtrakht\source\repos\SailPointEx1\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
+C:\Users\dtrakht\source\repos\SailPointEx1\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+C:\Users\dtrakht\source\repos\SailPointEx1\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+C:\Users\dtrakht\source\repos\SailPointEx1\Models\bin\Debug\netstandard2.0\Models.pdb
+C:\Users\dtrakht\source\repos\SailPointEx1\Models\obj\Debug\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\dtrakht\source\repos\SailPointEx1\Models\obj\Debug\netstandard2.0\Models.dll
+C:\Users\dtrakht\source\repos\SailPointEx1\Models\obj\Debug\netstandard2.0\Models.pdb
